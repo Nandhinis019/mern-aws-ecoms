@@ -330,7 +330,7 @@ function App() {
                 </li>
                 <li>
                   <a href="#" className="text-gray-400 hover:text-white transition-colors">
-                    Privacy Policy(PP)
+                    Privacy Policy
                   </a>
                 </li>
                 <li>
