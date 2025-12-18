@@ -389,7 +389,7 @@ function App() {
           {/* Bottom Bar */}
           <div className="mt-12 pt-8 border-t border-gray-800 text-center">
             <p className="text-gray-400">
-              © {new Date().getFullYear()} ShopFast. All rights reserved.
+              © {new Date().getFullYear()} ShopEasy All rights reserved.
             </p>
             <p className="text-gray-500 text-sm mt-2">
               Designed with ❤️ for the MERN Stack E-commerce Project for AIDS
